@@ -1,3 +1,2 @@
 * linguist-vendored
-rollup.config.js linguist-vendored=false
-scripts/setupTypeScript.js linguist-vendored=false
+*.js linguist-vendored=false
